@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstMaven.iml" filepath="$PROJECT_DIR$/FirstMaven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstMavenCore/FirstMavenCore.iml" filepath="$PROJECT_DIR$/FirstMavenCore/FirstMavenCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstMavenModule1/FirstMavenModule1.iml" filepath="$PROJECT_DIR$/FirstMavenModule1/FirstMavenModule1.iml" />
+    </modules>
+  </component>
+</project>
